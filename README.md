@@ -1,6 +1,6 @@
-# Asthana Builders Ltd. — Portfolio
+# Sakshi Asthana — Portfolio
 
-Firm-profile portfolio site for **Asthana Builders Ltd.** (builders · engineers · architects · interior designers, Kanpur), with the **Asthana Residence, Pandu Nagar** as the flagship case study.
+Professional portfolio of **Sakshi Asthana**, architect & interior designer (Kanpur) — a design-build case study of a private residence, from working drawings to the built result.
 
 A single self-contained page — `index.html` carries all photography and drawing images embedded inline, so there are no other assets to deploy.
 
@@ -12,10 +12,10 @@ A single self-contained page — `index.html` carries all photography and drawin
 
 ## Contents
 
-- Firm introduction and services
-- Case study: Asthana Residence — facts, narrative, floor plans (sheets B/1, B/2)
-- "From the drawing to the built thing" — working-drawing vs. built-photograph pairings (sheets H, K/5, E/12)
-- Materials & millwork (sheets E/14, E/6) and site photography
-- Contact details
+- Approach and disciplines
+- Case study: a private residence — facts, narrative, floor plans
+- "From the drawing to the built thing" — working-drawing vs. built-photograph pairings
+- Materials & millwork elevations and site photography
+- Contact
 
-All drawings and photographs are the practice's own work. Room dimensions shown are metric conversions of the issued imperial working drawings.
+All drawings and photographs are the author's own work. Room dimensions shown are metric conversions of the issued imperial working drawings. Location details and client names are intentionally omitted.
